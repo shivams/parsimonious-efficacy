@@ -6,3 +6,7 @@ This repo contians our work related to Inference Maximizing Configurations and I
 + `backward_construction_regions.py`: This file provides a helper visualization utility for backward construction, enumerating different type of regions in which you can place your points and see which region leads to maximum inferences if you place a point there
 
 
+The following images show the backward construction utility at work for 6 point case, showing the number of inferences we get after placing points in a certain region:
+![Backward Construction Utility](bkwd_6_1.png)
+![Backward Construction Utility](bkwd_6_2.png)
+
