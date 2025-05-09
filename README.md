@@ -1,5 +1,5 @@
-# parsimonious-inference-maximization
-This repo contians our work related to Inference Maximizing Configurations and Inference Maximizing Sequences, for Knuth's Parsimonious Algorithms.
+# Efficacy Analysis of Parsimonious Algorithms
+This repo contians our work related to Inference Maximizing Configurations and Inference Maximizing Sequences, for analysing the efficacy of Knuth's Parsimonious Algorithms.
 
 ## Files:
 + `parsimonious_brute_force.py`: This file contains the implementation of parsimonious CC computation (with data structures capturing the first 3 axioms and axiom-4 being used for parsimonious inference) and a brute force implementation for finding inference maximizing configurations.
